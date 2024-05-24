@@ -1,0 +1,10 @@
+*.pem
+*.tfstate
+*.tfstate.backup
+hosts
+main.tf
+.terraform
+
+group_vars/all.yml
+group_vars/mysql.yml
+group_vars/wordpress.yml
